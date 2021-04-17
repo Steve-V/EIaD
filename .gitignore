@@ -1,0 +1,5 @@
+/lib/
+/include/
+/bin/
+email_list.txt
+pyvenv.cfg
