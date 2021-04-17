@@ -1,40 +1,44 @@
 dictionary = {
     "A few sandwiches short of a picnic":
-        "Someone that lacks common sense might be described as 'a few sandwiches short of a picnic.'"
-        "The phrase was first documented in the BBC's 'Lenny Henry Christmas Special' in 1987."
-        "She's great fun, but she's a few sandwiches short of a picnic.",
+        "Someone that lacks common sense might be described as 'a few sandwiches short of a picnic.'\n"
+        "The phrase was first documented in the BBC's 'Lenny Henry Christmas Special' in 1987.\n"
+        "\"She's great fun, but she's a few sandwiches short of a picnic.\"",
 
     "Anorak":
         "Although it's more often used as a synonym for raincoat, an anorak is something slightly different in "
-        "playground slang. "
+        "playground slang. \n"
         "Someone that's a little bit geeky, with strong interests or expertise in a niche area, might be referred to "
         "as an 'anorak.' This probably originates from the 'uncool' appearance of anorak coats and the people wearing "
-        "them. "
+        "them. \n"
 
-        "Thomas is such an anorak when it comes to train trivia.",
+        "\"Thomas is such an anorak when it comes to train trivia.\"",
 
     "Bagsy":
         "Calling 'bagsy' is the equivalent of calling 'shotgun' or 'dibs' when something, like the front seat of the "
-        "car, is offered up to a group. "
+        "car, is offered up to a group. \n"
         "Schoolkids might call 'bagsy' on items from their friends' pack lunches, like an apple or a cereal bar, "
-        "that the friend isn't going to eat. "
-        "\"Does anyone want thi--\""
+        "that the friend isn't going to eat. \n"
+        "\"Does anyone want thi--\"\n"
         "\"Bagsy!\"",
 
     "Bee's knees":
-        "This phrase became mainstream in the USA in the 1920s despite its British origins, but its popularity in the States has dwindled since the turn of the century."
-        "The \"bee's knees\" referred to small or insignificant details when it was first documented in the 18th century. Since then, the phrase has evolved and refers to something at the 'height of cool.'"
+        "This phrase became mainstream in the USA in the 1920s despite its British origins, but its popularity in the "
+        "States has dwindled since the turn of the century.\n "
+        "The \"bee's knees\" referred to small or insignificant details when it was first documented in the 18th "
+        "century. Since then, the phrase has evolved and refers to something at the 'height of cool.' \n"
         "\"The Beatles are the bee's knees.\"",
 
     "Bender":
         "Someone on a spree of excessive drinking and mischief is 'on a bender.'"
-        "Benders often last over 24 hours, and so you might say that someone is on \"a weekend bender,\" or a \"three-day bender.\""
+        "Benders often last over 24 hours, and so you might say that someone is on \"a weekend bender,"
+        "\" or a \"three-day bender.\"\n "
         "\"I bumped into him towards the end of his four-day bender. He was a wreck.\"",
 
     "Blinder":
 
-        "To 'pull a blinder' involves achieving something difficult faultlessly and skilfully."
-        "The phrase is most commonly used when the individual has been lucky and the person saying it is in disbelief that the first person has managed to pull it off."
+        "To 'pull a blinder' involves achieving something difficult faultlessly and skilfully.\n"
+        "The phrase is most commonly used when the individual has been lucky and the person saying it is in disbelief "
+        "that the first person has managed to pull it off. "
         "\"...and did you see that equalising goal in the last minute of injury time? He pulled a blinder there.\"",
 
     "Bloody or Bleeding":
@@ -138,7 +142,8 @@ dictionary = {
 
         "An obvious and indiscreet mistake or blunder."
 
-        "Unrelatedly, \"Clangers\" was also a children's TV show from the 1970s about pink mouse-like creatures that lived on the moon."
+        "Unrelatedly, \"Clangers\" was also a children's TV show from the 1970s about pink mouse-like creatures that "
+        "lived on the moon. "
 
         "\"You dropped a clanger there.\"",
 
@@ -146,7 +151,9 @@ dictionary = {
 
         "Something untrue -- often made up for dramatic effect."
 
-        "Although no one is completely sure of the word's origins, it could derive from the words \"cod\" and \"wallop,\" which historically meant \"imitation\" and \"beer\" respectively -- implying that \"codswallop\" is the kind of rubbish you make up when drunk."
+        "Although no one is completely sure of the word's origins, it could derive from the words \"cod\" and "
+        "\"wallop,\" which historically meant \"imitation\" and \"beer\" respectively -- implying that \"codswallop\" "
+        "is the kind of rubbish you make up when drunk. "
 
         "\"Oh, what a load of codswallop!\"",
 
@@ -184,7 +191,8 @@ dictionary = {
 
     "Dim":
 
-        "Someone that lacks common knowledge might be described as \"dim,\" whilst someone that's intelligent might be described as \"bright.\""
+        "Someone that lacks common knowledge might be described as \"dim,\" whilst someone that's intelligent might "
+        "be described as \"bright.\" "
 
         "\"She's a bit dim.\"",
 
@@ -198,7 +206,7 @@ dictionary = {
 
     "Dog's dinner":
 
-        "A \"dog's dinner\" is a mess or fiasco -- sometimes also referred to as a \"dog's breakfast.\""
+        "A \"dog's dinner\" is a mess or fiasco -- sometimes also referred to as a \"dog's breakfast.\"\n"
 
         "\"You've made a dog's dinner of that.\"",
 
@@ -332,9 +340,11 @@ dictionary = {
 
     "Long":
 
-        "Something that takes a lot of effort and probably isn't going to be worth all of the effort, either, could be described as \"long.\" This could be due to the lengths that the person will have to go to in order to complete the task."
+        "Something that takes a lot of effort and probably isn't going to be worth all of the effort, either, "
+        "could be described as \"long.\" This could be due to the lengths that the person will have to go to in order "
+        "to complete the task. \n\n"
 
-        "Something that is \"long\" is probably also annoying or aggravating."
+        "Something that is \"long\" is probably also annoying or aggravating.\n"
 
         "\"Cleaning the kitchen is long.\"",
 
@@ -342,7 +352,8 @@ dictionary = {
 
         "If someone's \"caught the lurgy,\" they're suffering from cold or flu-like symptoms."
 
-        "\"The dreaded lurgy\" originates from 1950s British TV show \"The Goon Show,\" in which one character has to deal with a national epidemic of an unidentified illness."
+        "\"The dreaded lurgy\" originates from 1950s British TV show \"The Goon Show,\" in which one character has to "
+        "deal with a national epidemic of an unidentified illness. "
 
         "\"Lurgy\" is probably based on a mispronunciation of the word \"allergy.\""
 
@@ -350,19 +361,21 @@ dictionary = {
 
     "Making random words past-tense to mean drunk":
 
-        "Brits are known for favouring a drink or two, so much so that almost any noun can be used as a substitute for \"drunk.\""
+        "Brits are known for favouring a drink or two, so much so that almost any noun can be used as a substitute "
+        "for \"drunk.\" \n"
 
-        "In his stand-up show, British comedian Michael MacIntyre said: \"You can actually use any word in the English language and substitute it to mean drunk. It works.\""
+        "In his stand-up show, British comedian Michael MacIntyre said: \"You can actually use any word in the "
+        "English language and substitute it to mean drunk. It works.\" \n\n"
 
-        "Examples include \"trollied,\" \"smashed,\" and \"gazeboed.\""
+        "Examples include \"trollied,\" \"smashed,\" and \"gazeboed.\"\n"
 
         "\"I was absolutely car-parked last night.\"",
 
     "Miffed":
 
-        "Slightly irritated or annoyed."
+        "Slightly irritated or annoyed.\n"
 
-        "\"Miffed\" possibly derives from the German \"muffen,\" meaning \"to sulk.\""
+        "\"Miffed\" possibly derives from the German \"muffen,\" meaning \"to sulk.\"\n"
 
         "\"I was a bit miffed, I can't lie.\"",
 
@@ -407,6 +420,9 @@ dictionary = {
         "\"How's the report going, Steve?\""
 
         "\"Don't you worry, Alan, I'm on it like a car bonnet.\"",
+    "On the back foot.":
+    "\"It means “in a defensive position” or “in a losing position.”\"\n\n",
+
 
     "On the pull":
 
@@ -644,35 +660,39 @@ dictionary = {
 
     "Wangle":
 
-        "If you've \"wangled\" something, you've accomplished or attained something through cunning means."
+        "If you've \"wangled\" something, you've accomplished or attained something through cunning means.\n"
 
         "\"I wangled some first-class seats by being nice to the cabin crew!\"",
 
     "Whinge":
 
-        "To \"whinge\" means to moan, groan, and complain in an irritating or whiney fashion."
+        "To \"whinge\" means to moan, groan, and complain in an irritating or whiney fashion.\n"
 
         "\"Quit whinging.\"",
 
     "Wind your neck in":
 
-        "If you want to tell someone to not concern themselves with issues that don't directly affect them, you might tell them to \"wind their neck in.\""
+        "If you want to tell someone to not concern themselves with issues that don't directly affect them, "
+        "you might tell them to \"wind their neck in.\"\n"
 
-        "This classic phrase is another way of telling someone that their opinion is not appreciated in the given scenario."
+        "This classic phrase is another way of telling someone that their opinion is not appreciated in the given "
+        "scenario.\n"
 
         "\"Wind your neck in and stop being so nosy!\"",
 
     "Wind-up merchant":
 
-        "Someone that makes comments just to spark controversy or argument might be labelled a \"wind-up merchant.\""
+        "Someone that makes comments just to spark controversy or argument might be labelled a \"wind-up merchant.\"\n"
 
-        "The \"wind-up merchant\" will often claim to be making their comments as a light-hearted jest when the recipients start becoming irritated."
+        "The \"wind-up merchant\" will often claim to be making their comments as a light-hearted jest when the "
+        "recipients start becoming irritated. \n"
 
-        "If you're \"winding someone up,\" you're making them tense or irritated in the same way you wind up a Jack-in-the-box before it pops."
+        "If you're \"winding someone up,\" you're making them tense or irritated in the same way you wind up a "
+        "Jack-in-the-box before it pops. \n"
 
         "\"Stop being such a wind-up merchant and be serious for one second!\"",
 
     "Zonked":
-        "Exhausted; tired."
+        "Exhausted; tired.\n"
         "\"I was going to go out tonight but when I finished work I was absolutely zonked.\""
 }
